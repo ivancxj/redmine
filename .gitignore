@@ -4,7 +4,7 @@
 /.rvmrc
 /config/additional_environment.rb
 /config/configuration.yml
-/config/database.yml
+/config/secrets.yml
 /config/email.yml
 /config/initializers/session_store.rb
 /config/initializers/secret_token.rb
@@ -35,6 +35,7 @@
 /vendor/cache
 /vendor/rails
 *.rbc
+/.idea/*
 
 /.bundle
 /Gemfile.lock

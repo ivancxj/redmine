@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem 'puma', '~> 2.9.2'
+
 gem "rails", "4.1.7"
 gem "jquery-rails", "~> 3.1.1"
 gem "coderay", "~> 1.1.0"
